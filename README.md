@@ -15,6 +15,18 @@
 
 ---
 
+### Contribution stats
+
+<a href="https://github.com/Muthu29Periyal"><img align="center" width="49%" src="./header.svg" alt="Overview" /></a>
+<a href="https://github.com/Muthu29Periyal"><img align="center" width="49%" src="./iso_calendar.svg" alt="Isometric contribution calendar" /></a>
+
+<a href="https://github.com/Muthu29Periyal"><img align="center" width="49%" src="./languages.svg" alt="Most used languages" /></a>
+<a href="https://github.com/Muthu29Periyal"><img align="center" width="49%" src="./repositories.svg" alt="Repositories" /></a>
+
+<sub>Panels regenerate daily via <a href="https://github.com/lowlighter/metrics">lowlighter/metrics</a>.</sub>
+
+---
+
 ### About
 
 I build machine learning systems that do the reasoning people currently do by hand.
@@ -100,16 +112,6 @@ AI Agents & Autonomous Systems · AI for Drug Discovery & Cheminformatics · Sma
 Languages: English · Tamil
 
 ---
-
-### Contribution stats
-
-<a href="https://github.com/Muthu29Periyal"><img align="center" width="49%" src="./header.svg" alt="Overview" /></a>
-<a href="https://github.com/Muthu29Periyal"><img align="center" width="49%" src="./iso_calendar.svg" alt="Isometric contribution calendar" /></a>
-
-<a href="https://github.com/Muthu29Periyal"><img align="center" width="49%" src="./languages.svg" alt="Most used languages" /></a>
-<a href="https://github.com/Muthu29Periyal"><img align="center" width="49%" src="./repositories.svg" alt="Repositories" /></a>
-
-<sub>Panels regenerate daily via <a href="https://github.com/lowlighter/metrics">lowlighter/metrics</a>.</sub>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/muthuperiyal-ganesh">LinkedIn</a> ·
