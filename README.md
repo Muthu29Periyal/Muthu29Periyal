@@ -38,6 +38,21 @@ I build machine learning systems that do the reasoning people currently do by ha
 
 ---
 
+### Models & datasets
+
+Published on Hugging Face at [huggingface.co/priyaganesh2050](https://huggingface.co/priyaganesh2050).
+
+| Artifact | Type |
+| --- | --- |
+| [distilbert-sst2-sentiment](https://huggingface.co/priyaganesh2050/distilbert-sst2-sentiment) | Model — sentiment classification |
+| [all-MiniLM-L6-v2](https://huggingface.co/priyaganesh2050/all-MiniLM-L6-v2) | Model — sentence embeddings |
+| [bert-tiny](https://huggingface.co/priyaganesh2050/bert-tiny) | Model — compact BERT |
+| [rotten-tomatoes-sentiment](https://huggingface.co/datasets/priyaganesh2050/rotten-tomatoes-sentiment) | Dataset — sentiment |
+| [go-emotions-simplified](https://huggingface.co/datasets/priyaganesh2050/go-emotions-simplified) | Dataset — emotion labels |
+| [sentiment-toolkit](https://huggingface.co/spaces/priyaganesh2050/sentiment-toolkit) | Space — interactive demo |
+
+---
+
 ### What I'm building
 
 | Project | What it is |
