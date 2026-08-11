@@ -1,11 +1,10 @@
 <!-- Profile README for Muthu29Periyal -->
 
-
 <h1 align="center">Muthu Periyal Ganesh</h1>
 
 <p align="center">
-  <b>AI / ML Engineer @ Aziro Technologies</b> · Python · Machine Learning · Agentic AI<br/>
-  Building an autonomous <b>bio drug-discovery agent</b> for Dr. Reddy's Laboratories.
+  <b>AI / ML Engineer</b> · Python · Machine Learning · Agentic AI<br/>
+  Building an autonomous <b>bio drug-discovery agent</b> at Aziro Technologies for Dr. Reddy's Laboratories.
 </p>
 
 <p align="center">
@@ -18,23 +17,59 @@
 
 ### About
 
-I build machine learning systems that do the reasoning people currently do by hand.
+AI/ML engineer with 5+ years delivering production machine learning and generative AI
+systems, now building autonomous agents for scientific research.
 
-- 5+ years shipping production ML and generative AI — now building autonomous agents end to end.
-- At **Aziro Technologies** (client **Dr. Reddy's Laboratories**): an agent that navigates chemical space to propose novel molecule candidates, in-house small language models trained for chemical reaction prediction, and multi-agent orchestration grounded in scientific literature and internal molecular datasets — validated in evaluation loops with domain chemists.
-- Previously at **MSys Technologies**: a CrewAI medical chatbot, supervised fine-tuning of Phi Vision 3.5 for OCR, distributed RAG retrieval on Ray.io, Detectron2 and BERT document pipelines, and YOLOv4 detection. B.E. Computer Science, Anna University.
-- Interested in agent architectures, AI for drug discovery, small language models, and applied NLP evaluation.
+Today I'm engineering a drug-discovery agent that navigates chemical space to propose novel
+molecule candidates, and training in-house small language models for chemical reaction
+prediction — cutting our reliance on external LLM APIs. Every candidate goes through
+evaluation loops with domain chemists before it ships.
+
+Before agents, I spent four years on the full ML surface: retrieval systems, document AI,
+computer vision and end-to-end deployment.
+
+---
+
+### Experience
+
+**AI / ML Engineer** — Aziro Technologies · client: Dr. Reddy's Laboratories · *Jan 2025 – Present*
+Autonomous bio drug-discovery agent; in-house SLMs fine-tuned for chemical reaction
+prediction; multi-agent orchestration with retrieval over scientific literature and internal
+molecular datasets.
+
+**Data Scientist** — MSys Technologies · *Jan 2024 – Dec 2024*
+Internal medical chatbot on the CrewAI multi-agent framework with a Streamlit interface;
+OCR extraction fine-tuned on Phi Vision 3.5; scalable RAG retrieval on Ray.io.
+
+**Junior Data Scientist** — MSys Technologies · *Sep 2022 – Dec 2023*
+Automated rental-application verification using BERT classification and Google Maps
+street-view imagery; mechanical-device extraction with Detectron2, FastAI and OCR for cost
+estimation from plans.
+
+**Software Engineer Trainee · Intern** — MSys Technologies · *Feb 2021 – Aug 2022*
+YOLOv4 car and licence-plate detection with OCR plate extraction; end-to-end ML web apps on
+Flask, Streamlit and Heroku; AutoML pipelines with FastAI, AutoGluon and AutoKeras.
+
+---
+
+### Selected work
+
+| Project | What it does |
+| --- | --- |
+| **Bio Drug Discovery Agent** *(private · Aziro / Dr. Reddy's)* | Autonomous agent for pharmaceutical R&D that explores chemical space to identify new molecule candidates, backed by purpose-trained SLMs for reaction prediction. |
+| **[NasaBattery_All](https://github.com/Muthu29Periyal/NasaBattery_All)** | Li-ion battery life-cycle forecasting on the NASA degradation dataset. |
+| **[Battery-Estimator](https://github.com/Muthu29Periyal/Battery-Estimator)** | Remaining-life estimation for battery cells. |
+| **[Breast_Cancer](https://github.com/Muthu29Periyal/Breast_Cancer)** | Breast cancer prediction model, deployed as an ML web app. |
+| **[Liver-Disease-Prediction](https://github.com/Muthu29Periyal/Liver-Disease-Prediction)** | Clinical classification model for liver disease. |
+| **[sales-prediction-model](https://github.com/Muthu29Periyal/sales-prediction-model)** | Customer purchase and sales forecasting. |
+| **Medical Chatbot on CrewAI** *(private · MSys)* | Multi-agent medical assistant rolled out company-wide behind Streamlit. |
 
 ---
 
 ### Models & datasets
 
-Published at **[huggingface.co/priyaganesh2050](https://huggingface.co/priyaganesh2050)**
-🤗 [Models](https://huggingface.co/priyaganesh2050) · 📊 [Datasets](https://huggingface.co/priyaganesh2050) · 🚀 [Space](https://huggingface.co/spaces/priyaganesh2050/sentiment-toolkit)
-
-Sentiment and embedding work packaged end to end — fine-tuned classifiers, the datasets
-they were trained on, and a live Space that puts the whole pipeline behind a single input
-box so the models can be tried without cloning anything.
+On Hugging Face at **[priyaganesh2050](https://huggingface.co/priyaganesh2050)** — fine-tuned
+classifiers, the datasets behind them, and a live Space to try them without cloning anything.
 
 | Artifact | Type |
 | --- | --- |
@@ -47,39 +82,30 @@ box so the models can be tried without cloning anything.
 
 ---
 
-### What I'm building
-
-| Project | What it is |
-| --- | --- |
-| **Bio Drug Discovery Agent** *(private, @ Aziro Technologies · Dr. Reddy's Laboratories)* | Autonomous agent for pharmaceutical R&D that explores chemical space to identify new molecule candidates, backed by purpose-trained SLMs for reaction prediction. Agentic reasoning plus literature retrieval to shorten the path from hypothesis to viable candidate. |
-| **Chemical Reaction SLMs** *(private, @ Aziro Technologies)* | In-house small language models fine-tuned for reaction prediction, cutting reliance on external LLM APIs. Reviewed with domain chemists before release. |
-| **[sentiment-toolkit](https://huggingface.co/spaces/priyaganesh2050/sentiment-toolkit)** | Live Hugging Face Space serving the fine-tuned sentiment models above. |
-| **Medical Chatbot on CrewAI** *(private, @ MSys Technologies)* | Internal multi-agent medical assistant on CrewAI with a Streamlit interface, rolled out company-wide. |
-| **Distributed RAG Retrieval** *(private, @ MSys Technologies)* | Document-retrieval system using Ray.io for distributed parallel processing, with OpenAI models for augmentation. |
-| **Rental Verification Pipeline** *(private, @ MSys Technologies)* | Automated rental-application checks combining BERT review classification, Google Maps street-view imagery and Flask, with modules that auto-approve or reject. |
-
----
-
-### Tech
+### Skills
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Generative AI](https://img.shields.io/badge/-Generative%20AI%20%26%20LLMs-6E56CF?style=flat-square)
+![CrewAI](https://img.shields.io/badge/-AI%20Agents%20(CrewAI)-1A1A1A?style=flat-square)
+
+![Fine-Tuning](https://img.shields.io/badge/-Fine--Tuning%20%2F%20SLMs-BE185D?style=flat-square)
+![RAG](https://img.shields.io/badge/-RAG%20%26%20Retrieval-0F766E?style=flat-square)
+![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![NLP](https://img.shields.io/badge/-Applied%20NLP%20%2F%20BERT-4285F4?style=flat-square&logo=google&logoColor=white)
+
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Ray](https://img.shields.io/badge/-Ray-028CF0?style=flat-square&logo=ray&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Ray](https://img.shields.io/badge/-Ray%20%2F%20Distributed-028CF0?style=flat-square&logo=ray&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure%20Deployments-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 
-![Generative AI](https://img.shields.io/badge/-Generative%20AI%20%26%20LLMs-6E56CF?style=flat-square)
-![CrewAI](https://img.shields.io/badge/-CrewAI%20Agents-1A1A1A?style=flat-square)
-![RAG](https://img.shields.io/badge/-RAG%20%26%20Retrieval-0F766E?style=flat-square)
-![Fine-Tuning](https://img.shields.io/badge/-Fine--Tuning%20%2F%20SLMs-BE185D?style=flat-square)
-![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=flat-square&logoColor=black)
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+---
 
-![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Detectron2](https://img.shields.io/badge/-Detectron2-1877F2?style=flat-square&logo=meta&logoColor=white)
-![YOLOv4](https://img.shields.io/badge/-YOLOv4-00B0D8?style=flat-square)
-![BERT](https://img.shields.io/badge/-BERT%20%2F%20NLP-4285F4?style=flat-square&logo=google&logoColor=white)
+### Interested in
+
+AI agents & autonomous systems · AI for drug discovery & cheminformatics · small language
+models & fine-tuning · multi-agent orchestration · agentic RAG & retrieval · computer vision
+& document AI · applied NLP and LLM evaluation
 
 ---
 
@@ -91,10 +117,18 @@ box so the models can be tried without cloning anything.
 
 ---
 
-### Contribution stats
+### Education
+
+**B.E. Computer Science and Engineering** — K. Ramakrishnan College of Engineering, Anna University · 2017 – 2021
+
+Languages: English · Tamil
+
+---
+
+### GitHub
 
 <a href="https://github.com/Muthu29Periyal"><img align="center" width="49%" src="./header.svg" alt="Overview" /></a>
-<a href="https://github.com/Muthu29Periyal"><img align="center" width="49%" src="./iso_calendar.svg" alt="Isometric contribution calendar" /></a>
+<a href="https://github.com/Muthu29Periyal"><img align="center" width="49%" src="./iso_calendar.svg" alt="Contribution calendar" /></a>
 
 <a href="https://github.com/Muthu29Periyal"><img align="center" width="49%" src="./languages.svg" alt="Most used languages" /></a>
 <a href="https://github.com/Muthu29Periyal"><img align="center" width="49%" src="./repositories.svg" alt="Repositories" /></a>
@@ -105,4 +139,3 @@ box so the models can be tried without cloning anything.
   <a href="https://www.linkedin.com/in/muthuperiyal-ganesh">LinkedIn</a> ·
   <a href="https://huggingface.co/priyaganesh2050">Hugging Face</a>
 </p>
-
