@@ -111,9 +111,9 @@ models & fine-tuning · multi-agent orchestration · agentic RAG & retrieval · 
 
 ### Certifications
 
-**Anthropic** — Building with the Claude API · Claude Code in Action · Model Context Protocol: Advanced Topics · Claude with Amazon Bedrock · Claude on Google Cloud
+**Anthropic** — [Building with the Claude API](https://verify.skilljar.com/c/tk2wbgo643fs) · [Claude Code in Action](https://verify.skilljar.com/c/ei24bpxrgjhj) · [Model Context Protocol: Advanced Topics](https://verify.skilljar.com/c/iq2aj74sti8o) · [Claude with Amazon Bedrock](https://verify.skilljar.com/c/rmexfwp8hhhj) · [Claude on Google Cloud](https://verify.skilljar.com/c/oqj8jospif4k)
 
-**Cisco** — Python Essentials 1 · Python Essentials 2
+**Cisco** — [Python Essentials 1](https://www.credly.com/badges/e425b474-7b37-4d85-bd3e-9cd564117d52/public_url) · [Python Essentials 2](https://www.credly.com/badges/79778cab-3eda-4ed2-a755-2ba395c1e00a/public_url)
 
 ---
 
